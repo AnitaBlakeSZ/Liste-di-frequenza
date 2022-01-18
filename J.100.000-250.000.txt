@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 189
+2.Vittorio Emanuele, 171
+3.Vittorio Veneto, 136
+4.Guglielmo Marconi, 120
+5.Giacomo Matteotti, 111
+6.Giovanni XXIII, 110
+7.Giuseppe Mazzini, 107
+8.Giovanni Paolo II, 102
+9.Alcide De Gasperi, 97
+10.Umberto I, 97
+11.Aldo Moro, 90
+12.Dante Alighieri, 88
+13.Camillo Benso Conte di Cavour, 85
+14.San Francesco, 85
+15.Cesare Battisti, 82
+16.Antonio Gramsci, 81
+17.San Rocco, 77
+18.Giuseppe Verdi, 74
+19.Cristoforo Colombo, 72
+20.San Lorenzo, 69
+21.Vittorini, 68
+22.Galileo Galilei, 65
+23.Armando Diaz, 65
+24.Croce, 64
+25.Regina Margherita, 64
+26.Santa Lucia, 63
+27.San Giorgio, 62
+28.Rose, 62
+29.Carlo Alberto Dalla Chiesa, 62
+30.Leonardo da Vinci, 60
+31.Don Luigi Sturzo, 60
+32.Alessandro Manzoni, 59
+33.Carlo Alberto, 57
+34.Sandro Pertini, 57
+35.San Marco, 57
+36.Giotto, 57
+37.Umberto, 56
+38.San Giuseppe, 54
+39.Don Giovanni Minzoni, 54
+40.Gioacchino Rossini, 54
+41.Vincenzo Bellini, 54
+42.Enrico Fermi, 53
+43.Giovanni Pascoli, 53
+44.Paolo Borsellino, 53
+45.Alessandro Volta, 52
+46.Carmine, 52
+47.Salvo D'Acquisto, 52
+48.Nazario Sauro, 52
+49.Mazzini, 52
+50.Giacomo Leopardi, 51
+51.Michelangelo Buonarroti, 51
+52.Dante, 51
+53.Enrico Berlinguer, 50
+54.Giovanni Giorgi, 49
+55.Ugo Foscolo, 47
+56.Giovanni Falcone, 47
+57.Sant'Anna, 47
+58.Silvio Pellico, 46
+59.John Fitzgerald Kennedy, 46
+60.San Biagio, 45
+61.Marco Polo, 45
+62.San Domenico, 45
+63.Sant'Andrea, 45
+64.Amerigo Vespucci, 44
+65.Vittorio Alfieri, 43
+66.Goffredo Mameli, 43
+67.Giuseppe Di Vittorio, 43
+68.Francesco Petrarca, 43
+69.Santo Stefano, 43
+70.Santa Chiara, 43
+71.Nino Bixio, 43
+72.Giovanni Amendola, 42
+73.Piero Gobetti, 42
+74.Pietro Mascagni, 42
+75.Ludovico Ariosto, 42
+76.San Bartolomeo, 42
+77.Felice Cavallotti, 41
+78.Edmondo De Amicis, 41
+79.Giacomo Puccini, 41
+80.Enrico Toti, 41
+81.Bruno Buozzi, 40
+82.Guglielmo Oberdan, 40
+83.Gaetano Donizetti, 40
+84.Raffaello Sanzio, 40
+85.Virgilio, 40
+86.Grazia Deledda, 40
+87.San Nicola, 40
+88.Giovanni Boccaccio, 39
+89.Arturo Toscanini, 39
+90.Filippo Turati, 39
+91.Gabriele D'Annunzio, 39
+92.San Giacomo, 38
+93.Fabio Filzi, 38
+94.Ciro Menotti, 38
+95.Carlo Pisacane, 37
+96.Antonio Vivaldi, 37
+97.Massimo D'Azeglio, 37
+98.Vincenzo Marino, 37
+99.San Sebastiano, 37
+100.Michelangelo, 37

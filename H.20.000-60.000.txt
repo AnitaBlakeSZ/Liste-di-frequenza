@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 559
+2.Guglielmo Marconi, 391
+3.Giuseppe Mazzini, 367
+4.Vittorio Veneto, 366
+5.Giacomo Matteotti, 344
+6.Vittorio Emanuele, 321
+7.Dante Alighieri, 316
+8.Aldo Moro, 310
+9.Cesare Battisti, 310
+10.Antonio Gramsci, 308
+11.Giuseppe Verdi, 299
+12.Alcide De Gasperi, 287
+13.Alessandro Manzoni, 284
+14.Cristoforo Colombo, 271
+15.Alessandro Volta, 261
+16.Giacomo Leopardi, 259
+17.Ugo Foscolo, 256
+18.Leonardo da Vinci, 255
+19.Giovanni XXIII, 255
+20.Giovanni Pascoli, 254
+21.Galileo Galilei, 250
+22.Enrico Fermi, 246
+23.Giacomo Puccini, 219
+24.Silvio Pellico, 219
+25.Nazario Sauro, 219
+26.Gioacchino Rossini, 214
+27.San Francesco, 208
+28.Vincenzo Bellini, 201
+29.Giotto, 199
+30.Armando Diaz, 196
+31.Pietro Mascagni, 191
+32.Francesco Petrarca, 191
+33.Salvo D'Acquisto, 183
+34.Amerigo Vespucci, 180
+35.Filippo Turati, 180
+36.Vittorio Alfieri, 179
+37.Goffredo Mameli, 179
+38.Nino Bixio, 174
+39.Giuseppe Di Vittorio, 173
+40.Gaetano Donizetti, 171
+41.Don Luigi Sturzo, 171
+42.San Rocco, 166
+43.Edmondo De Amicis, 165
+44.Torquato Tasso, 164
+45.Sandro Pertini, 163
+46.Umberto I, 162
+47.Don Giovanni Minzoni, 162
+48.Bruno Buozzi, 161
+49.Michelangelo Buonarroti, 160
+50.Benedetto Croce, 158
+51.Pietro Nenni, 157
+52.Enrico Toti, 154
+53.Ludovico Ariosto, 152
+54.San Lorenzo, 152
+55.Marco Polo, 151
+56.Santa Lucia, 150
+57.Raffaello Sanzio, 149
+58.Luigi Einaudi, 149
+59.Luigi Pirandello, 145
+60.Camillo Benso Conte di Cavour, 145
+61.San Giuseppe, 143
+62.Giuseppe Parini, 142
+63.Giovanni Verga, 142
+64.Rose, 141
+65.Palmiro Togliatti, 138
+66.John Fitzgerald Kennedy, 138
+67.Fabio Filzi, 135
+68.Guglielmo Oberdan, 133
+69.Giovanni Boccaccio, 128
+70.Grazia Deledda, 127
+71.Giovanni Paolo II, 126
+72.Carlo Pisacane, 126
+73.Gabriele D'Annunzio, 125
+74.Piero Gobetti, 124
+75.Francesco Baracca, 124
+76.Carlo Alberto Dalla Chiesa, 123
+77.Achille Grandi, 123
+78.Antonio Meucci, 121
+79.Vittorini, 121
+80.Giovanni Amendola, 118
+81.Luigi Galvani, 117
+82.Giuseppe Giusti, 115
+83.Massimo D'Azeglio, 114
+84.Francesco Crispi, 114
+85.San Marco, 114
+86.Arturo Toscanini, 114
+87.Enrico Berlinguer, 114
+88.Enrico De Nicola, 110
+89.Paolo Borsellino, 108
+90.Antonio Vivaldi, 108
+91.Ugo La Malfa, 108
+92.San Giorgio, 107
+93.Vincenzo Gioberti, 106
+94.Giordano Bruno, 105
+95.San Nicola, 104
+96.Ippolito Nievo, 104
+97.San Giacomo, 103
+98.Salvatore Quasimodo, 103
+99.Sant'Anna, 102
+100.Ciro Menotti, 102

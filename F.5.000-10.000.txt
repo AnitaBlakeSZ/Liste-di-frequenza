@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 723
+2.Guglielmo Marconi, 663
+3.Giacomo Matteotti, 535
+4.Dante Alighieri, 522
+5.Giuseppe Verdi, 520
+6.Giuseppe Mazzini, 495
+7.Aldo Moro, 486
+8.Antonio Gramsci, 459
+9.Alcide De Gasperi, 451
+10.Vittorio Veneto, 435
+11.Alessandro Manzoni, 426
+12.Cesare Battisti, 409
+13.Leonardo da Vinci, 379
+14.Enrico Fermi, 358
+15.Alessandro Volta, 327
+16.Giacomo Leopardi, 325
+17.Giovanni Pascoli, 325
+18.Giovanni XXIII, 319
+19.Galileo Galilei, 318
+20.Vittorio Emanuele, 300
+21.Ugo Foscolo, 276
+22.Giacomo Puccini, 252
+23.Cristoforo Colombo, 252
+24.Gioacchino Rossini, 230
+25.San Rocco, 227
+26.Sandro Pertini, 213
+27.Giuseppe Di Vittorio, 212
+28.Francesco Petrarca, 206
+29.Silvio Pellico, 205
+30.Nazario Sauro, 195
+31.San Francesco, 192
+32.Salvo D'Acquisto, 181
+33.Umberto I, 179
+34.Filippo Turati, 176
+35.Giotto, 172
+36.Giovanni Ventitreesimo, 172
+37.Vincenzo Bellini, 168
+38.Armando Diaz, 163
+39.Michelangelo Buonarroti, 159
+40.Gaetano Donizetti, 157
+41.Giovanni Falcone, 154
+42.Pietro Nenni, 149
+43.Palmiro Togliatti, 142
+44.Don Luigi Sturzo, 141
+45.Camillo Benso Conte di Cavour, 137
+46.Don Giovanni Minzoni, 134
+47.Raffaello Sanzio, 132
+48.San Giuseppe, 130
+49.Pietro Mascagni, 125
+50.Enrico Berlinguer, 123
+51.John Fitzgerald Kennedy, 122
+52.Paolo Borsellino, 121
+53.Amerigo Vespucci, 119
+54.Mazzini, 118
+55.Gabriele D'Annunzio, 116
+56.Marco Polo, 114
+57.Nino Bixio, 114
+58.Grazia Deledda, 114
+59.Vittorio Alfieri, 113
+60.Carlo Alberto Dalla Chiesa, 113
+61.Antonio Vivaldi, 112
+62.Vittorini, 109
+63.Dante, 105
+64.Torquato Tasso, 104
+65.Luigi Pirandello, 104
+66.Luigi Einaudi, 103
+67.Arturo Toscanini, 101
+68.San Giorgio, 101
+69.Santa Lucia, 99
+70.Achille Grandi, 98
+71.Guglielmo Oberdan, 98
+72.Goffredo Mameli, 97
+73.Edmondo De Amicis, 96
+74.Bruno Buozzi, 96
+75.Antonio Meucci, 96
+76.Giuseppe Parini, 94
+77.Giovanni Verga, 94
+78.Rose, 94
+79.Croce, 94
+80.Enrico Toti, 94
+81.Benedetto Croce, 92
+82.Fabio Filzi, 91
+83.Guido Rossa, 90
+84.Giovanni Paolo II, 90
+85.Sant'Anna, 87
+86.Eugenio Montale, 86
+87.San Lorenzo, 86
+88.Ludovico Ariosto, 85
+89.San Marco, 85
+90.Giuseppe Ungaretti, 81
+91.Francesco Crispi, 80
+92.Martin Luther King, 79
+93.Enrico Mattei, 79
+94.Luigi Galvani, 77
+95.Regina Margherita, 77
+96.Michelangelo, 74
+97.Giovanni Boccaccio, 74
+98.Francesco Baracca, 70
+99.Salvatore Quasimodo, 69
+100.Salvador Allende, 67

@@ -1,0 +1,100 @@
+1.Guglielmo Marconi, 454
+2.Giuseppe Garibaldi, 453
+3.Aldo Moro, 334
+4.Giuseppe Verdi, 332
+5.Dante Alighieri, 330
+6.Giacomo Matteotti, 299
+7.Giuseppe Mazzini, 297
+8.Vittorio Veneto, 276
+9.Alcide De Gasperi, 247
+10.Alessandro Manzoni, 246
+11.Antonio Gramsci, 239
+12.Vittorio Emanuele, 195
+13.Cesare Battisti, 194
+14.Giovanni XXIII, 192
+15.Leonardo da Vinci, 181
+16.Alessandro Volta, 177
+17.Giacomo Leopardi, 153
+18.Sandro Pertini, 151
+19.Galileo Galilei, 149
+20.Enrico Fermi, 147
+21.Giovanni Pascoli, 144
+22.San Rocco, 143
+23.Giovanni Ventitreesimo, 132
+24.San Francesco, 119
+25.Umberto I, 119
+26.Cristoforo Colombo, 114
+27.Ugo Foscolo, 113
+28.Giacomo Puccini, 111
+29.Gioacchino Rossini, 97
+30.Salvo D'Acquisto, 88
+31.Armando Diaz, 88
+32.Don Luigi Sturzo, 88
+33.Silvio Pellico, 85
+34.Camillo Benso Conte di Cavour, 85
+35.Giovanni Falcone, 80
+36.San Lorenzo, 79
+37.Mazzini, 77
+38.Gaetano Donizetti, 77
+39.Nazario Sauro, 74
+40.Palmiro Togliatti, 74
+41.Pietro Nenni, 74
+42.Paolo Borsellino, 70
+43.Dante, 69
+44.San Giuseppe, 68
+45.Vincenzo Bellini, 68
+46.Francesco Petrarca, 67
+47.Giuseppe Di Vittorio, 67
+48.Enrico Berlinguer, 67
+49.John Fitzgerald Kennedy, 61
+50.Santa Lucia, 61
+51.Filippo Turati, 61
+52.Michelangelo Buonarroti, 60
+53.San Giorgio, 59
+54.Giotto, 58
+55.Giovanni Paolo II, 58
+56.Rose, 58
+57.Pietro Mascagni, 58
+58.Luigi Einaudi, 57
+59.Regina Margherita, 52
+60.Carlo Alberto Dalla Chiesa, 49
+61.Umberto, 49
+62.San Marco, 49
+63.Giovanni Verga, 49
+64.Croce, 48
+65.Sant'Anna, 47
+66.Carlo Alberto, 47
+67.Luigi Pirandello, 47
+68.Vittorio Alfieri, 46
+69.Enrico Mattei, 44
+70.Luigi Cadorna, 44
+71.Eugenio Montale, 44
+72.Marco Polo, 44
+73.Giuseppe Parini, 44
+74.Grazia Deledda, 44
+75.San Sebastiano, 43
+76.Antonio Vivaldi, 43
+77.Gabriele D'Annunzio, 42
+78.Salvatore Quasimodo, 42
+79.Vittorini, 42
+80.Achille Grandi, 42
+81.Nino Bixio, 41
+82.Francesco Crispi, 40
+83.Bruno Buozzi, 39
+84.Edmondo De Amicis, 39
+85.San Carlo, 39
+86.Amerigo Vespucci, 39
+87.Arturo Toscanini, 38
+88.Madre Teresa di Calcutta, 38
+89.Goffredo Mameli, 38
+90.Raffaello Sanzio, 38
+91.Guido Rossa, 37
+92.Don Giovanni Minzoni, 37
+93.Santo Stefano, 37
+94.Torquato Tasso, 36
+95.Cesare Pavese, 35
+96.Giuseppe Ungaretti, 34
+97.Michelangelo, 33
+98.Salvador Allende, 32
+99.San Giacomo, 31
+100.San Biagio, 31

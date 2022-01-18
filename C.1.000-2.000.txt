@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 389
+2.Guglielmo Marconi, 380
+3.Vittorio Emanuele, 235
+4.Aldo Moro, 213
+5.Giuseppe Mazzini, 212
+6.Dante Alighieri, 205
+7.Umberto I, 178
+8.Vittorio Veneto, 173
+9.Giuseppe Verdi, 173
+10.Giacomo Matteotti, 173
+11.Cesare Battisti, 154
+12.San Rocco, 144
+13.Antonio Gramsci, 135
+14.Giovanni XXIII, 134
+15.Alessandro Manzoni, 122
+16.Alcide De Gasperi, 109
+17.Sandro Pertini, 70
+18.Giacomo Leopardi, 69
+19.Camillo Benso Conte di Cavour, 66
+20.Armando Diaz, 66
+21.Leonardo da Vinci, 65
+22.Alessandro Volta, 65
+23.Dante, 62
+24.Enrico Fermi, 62
+25.Giovanni Pascoli, 62
+26.Giovanni Ventitreesimo, 61
+27.Cristoforo Colombo, 61
+28.Silva, 61
+29.Mazzini, 56
+30.San Francesco, 54
+31.San Lorenzo, 50
+32.San Giorgio, 49
+33.Galileo Galilei, 48
+34.Ugo Foscolo, 46
+35.Umberto, 46
+36.Regina Margherita, 42
+37.Giacomo Puccini, 41
+38.Nazario Sauro, 40
+39.Giovanni Falcone, 40
+40.San Sebastiano, 40
+41.Pietro Nenni, 40
+42.John Fitzgerald Kennedy, 40
+43.Silvio Pellico, 39
+44.San Giuseppe, 38
+45.Carlo Alberto, 37
+46.Gioacchino Rossini, 36
+47.San Carlo, 35
+48.Vittorini, 34
+49.Croce, 34
+50.Paolo Borsellino, 32
+51.Santa Lucia, 32
+52.Salvo D'Acquisto, 32
+53.Don Luigi Sturzo, 31
+54.Sant'Anna, 30
+55.Giovanni Paolo II, 30
+56.Grazia Deledda, 30
+57.San Nicola, 30
+58.Enrico Berlinguer, 29
+59.Vincenzo Bellini, 28
+60.San Giacomo, 27
+61.Gabriele D'Annunzio, 27
+62.Carlo Alberto Dalla Chiesa, 26
+63.Fiori, 26
+64.Francesco Crispi, 26
+65.San Marco, 25
+66.Francesco Petrarca, 24
+67.Madre Teresa di Calcutta, 24
+68.Umberto Primo, 24
+69.Palmiro Togliatti, 23
+70.Rose, 23
+71.Regina Elena, 22
+72.San Bartolomeo, 22
+73.Michelangelo Buonarroti, 21
+74.Giuseppe Di Vittorio, 21
+75.Goffredo Mameli, 21
+76.San Biagio, 20
+77.Fabio Filzi, 19
+78.San Paolo, 19
+79.Amerigo Vespucci, 19
+80.Giotto, 18
+81.Santo Stefano, 18
+82.Marco Polo, 18
+83.Pietro Micca, 17
+84.Luigi Cadorna, 17
+85.Filippo Turati, 17
+86.Vittorio Alfieri, 16
+87.Gaetano Donizetti, 16
+88.Cesare Pavese, 16
+89.Sant'Andrea, 16
+90.Emilio Lussu, 16
+91.Sebastiano Satta, 16
+92.Torquato Tasso, 15
+93.Luigi Einaudi, 15
+94.Nino Bixio, 15
+95.Giovanni Giorgi, 15
+96.Michelangelo, 14
+97.Edmondo De Amicis, 14
+98.Don Giovanni Minzoni, 14
+99.Raffaello Sanzio, 14
+100.Enrico Toti, 14

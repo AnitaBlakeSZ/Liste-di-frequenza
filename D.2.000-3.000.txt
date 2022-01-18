@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 312
+2.Guglielmo Marconi, 309
+3.Dante Alighieri, 214
+4.Aldo Moro, 204
+5.Giuseppe Verdi, 194
+6.Giuseppe Mazzini, 187
+7.Giacomo Matteotti, 157
+8.Alessandro Manzoni, 155
+9.Vittorio Veneto, 149
+10.Alcide De Gasperi, 149
+11.San Rocco, 147
+12.Vittorio Emanuele, 147
+13.Giovanni XXIII, 145
+14.Cesare Battisti, 139
+15.Antonio Gramsci, 115
+16.Umberto I, 108
+17.Alessandro Volta, 95
+18.Sandro Pertini, 89
+19.Leonardo da Vinci, 86
+20.Enrico Fermi, 83
+21.Giovanni Pascoli, 82
+22.Giacomo Leopardi, 78
+23.Cristoforo Colombo, 73
+24.San Francesco, 73
+25.Giacomo Puccini, 66
+26.Ugo Foscolo, 66
+27.Armando Diaz, 66
+28.Galileo Galilei, 65
+29.Giovanni Ventitreesimo, 60
+30.Camillo Benso Conte di Cavour, 57
+31.Silvio Pellico, 52
+32.Gioacchino Rossini, 51
+33.Nazario Sauro, 50
+34.Dante, 46
+35.Gaetano Donizetti, 46
+36.Regina Margherita, 45
+37.Mazzini, 41
+38.Vittorini, 41
+39.San Lorenzo, 40
+40.San Giorgio, 39
+41.San Giuseppe, 39
+42.John Fitzgerald Kennedy, 39
+43.Santa Lucia, 37
+44.Pietro Nenni, 35
+45.Don Luigi Sturzo, 35
+46.Luigi Einaudi, 34
+47.Carlo Alberto, 33
+48.Francesco Petrarca, 33
+49.Vincenzo Bellini, 33
+50.Guglielmo Oberdan, 32
+51.Croce, 32
+52.Giovanni Falcone, 31
+53.Enrico Berlinguer, 31
+54.Goffredo Mameli, 31
+55.Giotto, 30
+56.Giovanni Paolo II, 30
+57.Vittorio Alfieri, 29
+58.San Carlo, 29
+59.Rose, 29
+60.Umberto, 29
+61.San Marco, 28
+62.Salvo D'Acquisto, 28
+63.Carlo Alberto Dalla Chiesa, 28
+64.Pietro Mascagni, 28
+65.Paolo Borsellino, 28
+66.San Sebastiano, 27
+67.San Giacomo, 27
+68.San Nicola, 27
+69.Don Giovanni Minzoni, 26
+70.Sant'Andrea, 26
+71.Giuseppe Parini, 26
+72.Palmiro Togliatti, 26
+73.Luigi Pirandello, 25
+74.Filippo Turati, 24
+75.Michelangelo Buonarroti, 24
+76.Antonio Vivaldi, 23
+77.Giovanni Verga, 23
+78.Sant'Anna, 23
+79.Santo Stefano, 22
+80.Fiori, 22
+81.Raffaello Sanzio, 21
+82.Giovanni Giorgi, 21
+83.Eugenio Montale, 21
+84.Grazia Deledda, 21
+85.Gabriele D'Annunzio, 21
+86.Francesco Crispi, 21
+87.Annunziata, 20
+88.Silva, 20
+89.San Leonardo, 20
+90.Michelangelo, 19
+91.Luigi Cadorna, 19
+92.Benedetto Croce, 19
+93.Fabio Filzi, 19
+94.Giuseppe Di Vittorio, 19
+95.Madre Teresa di Calcutta, 19
+96.Raffaello, 18
+97.San Bernardo, 18
+98.Arturo Toscanini, 18
+99.Gelsi, 18
+100.Bruno Buozzi, 18

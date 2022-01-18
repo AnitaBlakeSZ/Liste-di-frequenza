@@ -1,0 +1,100 @@
+1.Vittorio Emanuele, 56
+2.Giuseppe Garibaldi, 44
+3.Vittorio Veneto, 37
+4.Giovanni XXIII, 31
+5.San Rocco, 29
+6.Aldo Moro, 27
+7.Guglielmo Marconi, 26
+8.Giuseppe Mazzini, 26
+9.Cristoforo Colombo, 25
+10.Alcide De Gasperi, 25
+11.San Francesco, 25
+12.Carlo Alberto Dalla Chiesa, 25
+13.Croce, 24
+14.Carmine, 21
+15.Umberto I, 21
+16.San Paolo, 21
+17.Vittorini, 21
+18.Camillo Benso Conte di Cavour, 20
+19.Cesare Battisti, 20
+20.Giacomo Matteotti, 20
+21.Umberto, 20
+22.San Giuseppe, 19
+23.Giovanni Paolo II, 19
+24.Carlo Alberto, 18
+25.Gioacchino Rossini, 18
+26.Pino, 18
+27.Fiori, 18
+28.Antonio Gramsci, 18
+29.John Fitzgerald Kennedy, 18
+30.Santa Lucia, 18
+31.Regina Margherita, 17
+32.Alessandro Manzoni, 17
+33.San Marco, 17
+34.Dante, 17
+35.Santo Stefano, 17
+36.Don Luigi Sturzo, 16
+37.Leonardo da Vinci, 16
+38.San Giovanni Battista, 16
+39.San Giorgio, 16
+40.Armando Diaz, 15
+41.Enrico Fermi, 15
+42.Bruno Buozzi, 15
+43.Santa Chiara, 15
+44.San Lorenzo, 15
+45.Maddalena, 15
+46.Giulio Cesare, 14
+47.Sandro Pertini, 14
+48.San Carlo, 14
+49.Paolo Borsellino, 14
+50.Galileo Galilei, 14
+51.Mazzini, 14
+52.Don Giovanni Minzoni, 14
+53.Sant'Anna, 14
+54.San Nicola, 14
+55.San Giacomo, 14
+56.Rose, 14
+57.San Matteo, 14
+58.Colombo, 14
+59.Leone, 14
+60.Giovanni Ventitreesimo, 13
+61.Giuseppe Di Vittorio, 13
+62.San Bernardo, 13
+63.Giovanni Falcone, 13
+64.Giuseppe Verdi, 13
+65.Michelangelo Buonarroti, 13
+66.Alessandro Volta, 13
+67.Pietro Nenni, 13
+68.San Vincenzo, 13
+69.San Bartolomeo, 13
+70.Stellina, 13
+71.Paolo, 13
+72.Pio XII, 13
+73.Dante Alighieri, 12
+74.Virgilio, 12
+75.Silvio Pellico, 12
+76.Achille Grandi, 12
+77.Arturo Toscanini, 12
+78.Giovanni Amendola, 12
+79.Giovanni Giorgi, 12
+80.Francesco Crispi, 12
+81.Enrico Berlinguer, 12
+82.Goffredo Mameli, 11
+83.Luigi Einaudi, 11
+84.Giacomo Puccini, 11
+85.Vittorio Alfieri, 11
+86.Piero Gobetti, 11
+87.Giovanni Battista Pergolesi, 11
+88.Luigi Cadorna, 11
+89.Filippo Turati, 11
+90.San Sebastiano, 11
+91.Nino Bixio, 11
+92.Salvo D'Acquisto, 11
+93.Santa Teresa, 11
+94.Martina, 11
+95.Don Lorenzo Milani, 11
+96.Archimede, 11
+97.Sant'Andrea, 11
+98.Domenico Cimarosa, 10
+99.Umberto Primo, 10
+100.San Domenico, 10

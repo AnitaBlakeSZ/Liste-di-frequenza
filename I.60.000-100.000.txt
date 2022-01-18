@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 213
+2.Vittorio Emanuele, 210
+3.Giovanni XXIII, 135
+4.Vittorio Veneto, 133
+5.Guglielmo Marconi, 119
+6.Giuseppe Mazzini, 115
+7.Aldo Moro, 115
+8.Alcide De Gasperi, 111
+9.Giacomo Matteotti, 106
+10.Dante Alighieri, 103
+11.Umberto I, 102
+12.Cesare Battisti, 99
+13.Antonio Gramsci, 92
+14.Cristoforo Colombo, 90
+15.San Francesco, 89
+16.Camillo Benso Conte di Cavour, 87
+17.Giuseppe Verdi, 85
+18.San Rocco, 84
+19.Giacomo Puccini, 75
+20.Regina Margherita, 74
+21.San Giuseppe, 73
+22.Vittorini, 73
+23.Mazzini, 72
+24.Alessandro Manzoni, 72
+25.Armando Diaz, 70
+26.Don Luigi Sturzo, 69
+27.Sant'Anna, 69
+28.Giovanni Pascoli, 69
+29.Leonardo da Vinci, 68
+30.Giacomo Leopardi, 68
+31.Giovanni Paolo II, 68
+32.Carlo Alberto Dalla Chiesa, 67
+33.Gioacchino Rossini, 67
+34.Croce, 66
+35.Rose, 65
+36.Salvo D'Acquisto, 65
+37.Sandro Pertini, 64
+38.Alessandro Volta, 64
+39.San Lorenzo, 64
+40.Galileo Galilei, 64
+41.Umberto, 63
+42.Ugo Foscolo, 63
+43.Bruno Buozzi, 63
+44.Giotto, 63
+45.Santa Lucia, 62
+46.San Giorgio, 61
+47.Dante, 60
+48.Nino Bixio, 60
+49.Don Giovanni Minzoni, 59
+50.Silvio Pellico, 58
+51.Paolo Borsellino, 57
+52.Enrico Fermi, 57
+53.Francesco Petrarca, 56
+54.Amerigo Vespucci, 56
+55.Nazario Sauro, 55
+56.Pietro Nenni, 55
+57.Enrico Berlinguer, 55
+58.San Marco, 54
+59.Guglielmo Oberdan, 54
+60.Carlo Pisacane, 54
+61.Vittorio Alfieri, 53
+62.Giovanni Amendola, 52
+63.Goffredo Mameli, 52
+64.Sant'Andrea, 52
+65.Giordano Bruno, 52
+66.Carmine, 51
+67.Filippo Turati, 51
+68.Michelangelo Buonarroti, 51
+69.Vincenzo Bellini, 51
+70.Antonio Meucci, 50
+71.Carlo Alberto, 50
+72.Palmiro Togliatti, 50
+73.Pietro Mascagni, 50
+74.Benedetto Croce, 49
+75.Francesco Crispi, 49
+76.San Bartolomeo, 49
+77.Piero Gobetti, 48
+78.Raffaello Sanzio, 48
+79.John Fitzgerald Kennedy, 48
+80.Luigi Einaudi, 47
+81.San Giacomo, 47
+82.Edmondo De Amicis, 47
+83.Ludovico Ariosto, 47
+84.Marco Polo, 47
+85.Santo Stefano, 46
+86.Giuseppe Di Vittorio, 46
+87.San Leonardo, 46
+88.Ciro Menotti, 46
+89.Felice Cavallotti, 45
+90.Giovanni Boccaccio, 45
+91.Enrico Toti, 45
+92.Gaetano Donizetti, 45
+93.San Domenico, 45
+94.Gabriele D'Annunzio, 45
+95.Luigi Pirandello, 45
+96.Giovanni Falcone, 44
+97.San Nicola, 44
+98.Giuseppe Parini, 43
+99.Arturo Toscanini, 43
+100.Ugo La Malfa, 43

@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 575
+2.Guglielmo Marconi, 469
+3.Giacomo Matteotti, 423
+4.Giuseppe Mazzini, 421
+5.Dante Alighieri, 403
+6.Vittorio Veneto, 398
+7.Giuseppe Verdi, 393
+8.Antonio Gramsci, 381
+9.Cesare Battisti, 344
+10.Aldo Moro, 337
+11.Alcide De Gasperi, 337
+12.Alessandro Manzoni, 334
+13.Leonardo da Vinci, 326
+14.Enrico Fermi, 307
+15.Galileo Galilei, 302
+16.Alessandro Volta, 290
+17.Giovanni Pascoli, 281
+18.Giacomo Leopardi, 276
+19.Cristoforo Colombo, 263
+20.Giovanni XXIII, 262
+21.Ugo Foscolo, 256
+22.Giacomo Puccini, 251
+23.Gioacchino Rossini, 229
+24.Salvo D'Acquisto, 221
+25.Francesco Petrarca, 219
+26.Silvio Pellico, 216
+27.Vittorio Emanuele, 209
+28.Giuseppe Di Vittorio, 206
+29.Giotto, 204
+30.San Francesco, 200
+31.Vincenzo Bellini, 199
+32.Sandro Pertini, 189
+33.Nazario Sauro, 188
+34.Marco Polo, 180
+35.Filippo Turati, 179
+36.Michelangelo Buonarroti, 177
+37.Pietro Mascagni, 176
+38.Don Luigi Sturzo, 172
+39.Amerigo Vespucci, 164
+40.Gaetano Donizetti, 159
+41.Pietro Nenni, 159
+42.Armando Diaz, 158
+43.Don Giovanni Minzoni, 155
+44.San Giuseppe, 150
+45.Nino Bixio, 149
+46.Vittorio Alfieri, 147
+47.Giovanni Falcone, 142
+48.Goffredo Mameli, 139
+49.Paolo Borsellino, 138
+50.Bruno Buozzi, 137
+51.San Rocco, 136
+52.Ludovico Ariosto, 136
+53.Palmiro Togliatti, 133
+54.Edmondo De Amicis, 132
+55.Enrico Toti, 132
+56.Luigi Pirandello, 131
+57.Luigi Einaudi, 130
+58.Torquato Tasso, 128
+59.Achille Grandi, 127
+60.Benedetto Croce, 127
+61.Carlo Alberto Dalla Chiesa, 126
+62.Raffaello Sanzio, 125
+63.Umberto I, 124
+64.Antonio Vivaldi, 123
+65.Rose, 120
+66.Giovanni Verga, 119
+67.Camillo Benso Conte di Cavour, 119
+68.Guglielmo Oberdan, 119
+69.Grazia Deledda, 118
+70.Enrico Berlinguer, 116
+71.Arturo Toscanini, 108
+72.Antonio Meucci, 106
+73.Giovanni Ventitreesimo, 106
+74.Gabriele D'Annunzio, 105
+75.Salvatore Quasimodo, 105
+76.Martin Luther King, 105
+77.Giovanni Paolo II, 103
+78.John Fitzgerald Kennedy, 97
+79.Sant'Anna, 96
+80.Fabio Filzi, 96
+81.Francesco Baracca, 93
+82.Giovanni Boccaccio, 93
+83.Giovanni Amendola, 93
+84.Mazzini, 91
+85.Ugo La Malfa, 91
+86.Santa Lucia, 90
+87.Eugenio Montale, 90
+88.Giuseppe Parini, 89
+89.Guido Rossa, 87
+90.San Marco, 87
+91.Giuseppe Ungaretti, 83
+92.Piero Gobetti, 83
+93.Enrico De Nicola, 81
+94.Enrico Mattei, 81
+95.Francesco Crispi, 81
+96.Luigi Cadorna, 80
+97.Dante, 80
+98.Cesare Pavese, 80
+99.Giordano Bruno, 80
+100.Luigi Galvani, 78

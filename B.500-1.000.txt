@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 188
+2.Guglielmo Marconi, 182
+3.Vittorio Emanuele, 144
+4.Vittorio Veneto, 108
+5.Umberto I, 92
+6.Giuseppe Mazzini, 88
+7.San Rocco, 87
+8.Dante Alighieri, 72
+9.Cesare Battisti, 69
+10.Aldo Moro, 57
+11.Giovanni XXIII, 56
+12.Giuseppe Verdi, 52
+13.Giacomo Matteotti, 49
+14.Alcide De Gasperi, 39
+15.Camillo Benso Conte di Cavour, 37
+16.Antonio Gramsci, 36
+17.Mazzini, 35
+18.Regina Margherita, 31
+19.Alessandro Manzoni, 31
+20.San Sebastiano, 30
+21.San Giuseppe, 30
+22.Umberto, 30
+23.Armando Diaz, 29
+24.San Lorenzo, 28
+25.Sandro Pertini, 27
+26.Dante, 27
+27.San Giacomo, 26
+28.Croce, 26
+29.Giovanni Ventitreesimo, 25
+30.Cristoforo Colombo, 23
+31.Giacomo Leopardi, 22
+32.San Carlo, 22
+33.Alessandro Volta, 21
+34.San Giorgio, 20
+35.Giovanni Pascoli, 20
+36.Regina Elena, 18
+37.San Francesco, 18
+38.Vittorini, 17
+39.Grazia Deledda, 17
+40.Giovanni Paolo II, 16
+41.Leonardo da Vinci, 16
+42.Don Luigi Sturzo, 16
+43.Carlo Alberto, 16
+44.San Antonio, 16
+45.Nazario Sauro, 15
+46.Santa Lucia, 15
+47.Enrico Berlinguer, 15
+48.Luigi Cadorna, 14
+49.Sant'Anna, 14
+50.San Bernardo, 13
+51.John Fitzgerald Kennedy, 13
+52.Enrico Fermi, 13
+53.Fiori, 13
+54.Carmine, 13
+55.Ugo Foscolo, 12
+56.San Marco, 12
+57.Goffredo Mameli, 11
+58.Adua, 11
+59.Rose, 11
+60.Silvio Pellico, 9
+61.Guglielmo Oberdan, 9
+62.Francesco Petrarca, 9
+63.Sant'Andrea, 9
+64.San Bartolomeo, 9
+65.Santo Stefano, 9
+66.Vittorio Alfieri, 9
+67.Pino, 9
+68.Gioacchino Rossini, 9
+69.Giovanni Falcone, 9
+70.Umberto Primo, 8
+71.Vincenzo Gioberti, 8
+72.Galileo Galilei, 8
+73.Margherita, 8
+74.Enrico Toti, 8
+75.Benito Juárez, 8
+76.Silva, 8
+77.Nino Bixio, 8
+78.Francesco Crispi, 8
+79.Vincenzo Bellini, 8
+80.Gabriele D'Annunzio, 8
+81.Salvo D'Acquisto, 8
+82.Giacomo Puccini, 7
+83.San Nicola, 7
+84.Amedeo, 7
+85.San Giovanni Battista, 7
+86.Fabio Filzi, 7
+87.Luigi Einaudi, 7
+88.Annunziata, 7
+89.Giordano, 7
+90.San Matteo, 7
+91.Massimo d'Azeglio, 7
+92.Fausto Coppi, 7
+93.Rosario, 7
+94.Martina, 7
+95.Luigi Pirandello, 7
+96.Benedetto Croce, 7
+97.Emilio Lussu, 7
+98.San Grato, 6
+99.Filippo Turati, 6
+100.Damiano Chiesa, 6

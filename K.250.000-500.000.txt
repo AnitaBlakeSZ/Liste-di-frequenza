@@ -1,0 +1,100 @@
+1.Vittorio Veneto, 44
+2.Vittorio Emanuele, 43
+3.Giuseppe Garibaldi, 43
+4.Aldo Moro, 31
+5.Giovanni XXIII, 31
+6.Giovanni Paolo II, 30
+7.Alcide De Gasperi, 28
+8.Dante Alighieri, 27
+9.Guglielmo Marconi, 25
+10.San Francesco, 24
+11.Cristoforo Colombo, 24
+12.Vittorini, 24
+13.Giacomo Matteotti, 22
+14.Alessandro Volta, 22
+15.San Giuseppe, 22
+16.San Marco, 21
+17.San Lorenzo, 21
+18.Sant'Andrea, 21
+19.Don Luigi Sturzo, 21
+20.Santa Lucia, 20
+21.Santo Stefano, 20
+22.Rosa, 19
+23.Croce, 19
+24.Umberto, 19
+25.Don Giovanni Minzoni, 19
+26.Carlo Alberto, 18
+27.Giuseppe Mazzini, 18
+28.Galileo Galilei, 18
+29.Camillo Benso Conte di Cavour, 18
+30.Cesare Battisti, 17
+31.Salvo D'Acquisto, 17
+32.Giuseppe Verdi, 17
+33.Umberto I, 17
+34.Paolo Borsellino, 17
+35.San Giacomo, 16
+36.San Rocco, 16
+37.Marco Polo, 16
+38.Antonio Gramsci, 16
+39.Rose, 16
+40.San Benedetto, 16
+41.John Fitzgerald Kennedy, 16
+42.Carmine, 16
+43.Carlo Alberto Dalla Chiesa, 15
+44.San Giorgio, 15
+45.Giotto, 15
+46.Pio XII, 15
+47.Sandro Pertini, 15
+48.Cristo, 14
+49.San Sebastiano, 14
+50.San Luca, 14
+51.Giovanni Falcone, 14
+52.Sant'Anna, 14
+53.Santa Barbara, 14
+54.San Domenico, 13
+55.San Gaetano, 13
+56.Dante, 13
+57.Giovanni Giorgi, 13
+58.Giacomo Puccini, 12
+59.Vincenzo Ferrara, 12
+60.Alessandro Manzoni, 12
+61.Santa Chiara, 12
+62.Nazario Sauro, 12
+63.Edmondo De Amicis, 12
+64.Gioacchino Rossini, 12
+65.Francesco Crispi, 12
+66.Arturo Toscanini, 12
+67.Giovanni Bosco, 12
+68.Piero Gobetti, 12
+69.Giovanni da Verrazzano, 12
+70.Armando Diaz, 11
+71.Ugo Foscolo, 11
+72.Gabriele D'Annunzio, 11
+73.Michelangelo Buonarroti, 11
+74.Girolamo Savonarola, 11
+75.San Biagio, 11
+76.Madre Teresa di Calcutta, 11
+77.Andrea Costa, 11
+78.Benedetto Croce, 11
+79.Massimiliano Kolbe, 11
+80.Enrico Berlinguer, 11
+81.Ugo Bassi, 11
+82.San Nicola, 11
+83.Giovanni Ventitreesimo, 10
+84.Martin Luther King, 10
+85.Santa Rita, 10
+86.Luigi Cadorna, 10
+87.Leonardo da Vinci, 10
+88.San Giovanni Battista, 10
+89.Don Lorenzo Milani, 10
+90.San Girolamo, 10
+91.Michelangelo, 10
+92.Napoleone, 10
+93.Regina Margherita, 10
+94.Virgilio, 10
+95.Luigi Einaudi, 10
+96.Amerigo Vespucci, 10
+97.Maria Montessori, 10
+98.Mazzini, 10
+99.Torquato Tasso, 10
+100.San Bartolomeo, 10
