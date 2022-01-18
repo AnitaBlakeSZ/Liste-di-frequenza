@@ -1,0 +1,100 @@
+1.Guglielmo Marconi, 768
+2.Giuseppe Garibaldi, 695
+3.Dante Alighieri, 542
+4.Giuseppe Verdi, 518
+5.Aldo Moro, 477
+6.Vittorio Veneto, 473
+7.Giacomo Matteotti, 462
+8.Giuseppe Mazzini, 437
+9.Cesare Battisti, 433
+10.Alcide De Gasperi, 427
+11.Antonio Gramsci, 385
+12.Enrico Fermi, 379
+13.Alessandro Manzoni, 338
+14.Leonardo da Vinci, 334
+15.Galileo Galilei, 328
+16.Alessandro Volta, 320
+17.Giovanni XXIII, 315
+18.Giovanni Pascoli, 303
+19.San Francesco, 257
+20.San Rocco, 254
+21.Giacomo Leopardi, 252
+22.Ugo Foscolo, 233
+23.Giacomo Puccini, 225
+24.Sandro Pertini, 223
+25.Cristoforo Colombo, 223
+26.San Marco, 211
+27.Gioacchino Rossini, 206
+28.Salvo D'Acquisto, 202
+29.Silvio Pellico, 199
+30.Giuseppe Di Vittorio, 195
+31.Marco Polo, 192
+32.Nazario Sauro, 191
+33.Giotto, 190
+34.Francesco Petrarca, 184
+35.Vittorini, 171
+36.Vittorio Emanuele, 169
+37.Don Giovanni Minzoni, 169
+38.Mazzini, 161
+39.San Lorenzo, 161
+40.Ippolito Nievo, 157
+41.Giovanni Ventitreesimo, 156
+42.San Giuseppe, 156
+43.Antonio Vivaldi, 156
+44.Fabio Filzi, 150
+45.Giovanni Paolo II, 150
+46.Dante, 149
+47.Pietro Mascagni, 146
+48.San Giorgio, 137
+49.Camillo Benso Conte di Cavour, 136
+50.Vincenzo Bellini, 136
+51.Croce, 135
+52.Armando Diaz, 135
+53.Giovanni Falcone, 135
+54.Amerigo Vespucci, 134
+55.Palmiro Togliatti, 130
+56.Rose, 125
+57.Filippo Turati, 124
+58.Ludovico Ariosto, 124
+59.John Fitzgerald Kennedy, 122
+60.Gaetano Donizetti, 120
+61.Francesco Baracca, 120
+62.Pietro Nenni, 120
+63.Guglielmo Oberdan, 120
+64.Michelangelo Buonarroti, 119
+65.Grazia Deledda, 118
+66.Edmondo De Amicis, 118
+67.Giovanni Giorgi, 117
+68.Carlo Alberto Dalla Chiesa, 117
+69.Paolo Borsellino, 117
+70.Luciani, 115
+71.Daniele Manin, 114
+72.Damiano Chiesa, 113
+73.Arturo Toscanini, 113
+74.Nino Bixio, 112
+75.Sant'Andrea, 111
+76.Enrico Berlinguer, 110
+77.Gabriele D'Annunzio, 107
+78.Don Luigi Sturzo, 106
+79.Andrea Costa, 105
+80.Bruno Buozzi, 105
+81.Antonio Meucci, 105
+82.Santa Lucia, 104
+83.San Giacomo, 104
+84.Goffredo Mameli, 104
+85.Luigi Galvani, 104
+86.Tiziano Vecellio, 104
+87.Piero Gobetti, 103
+88.Guido Rossa, 103
+89.Enrico Mattei, 102
+90.Enrico Toti, 102
+91.Vittorio Alfieri, 101
+92.Luigi Einaudi, 98
+93.Arrigo Boito, 95
+94.Giovanni Amendola, 95
+95.Raffaello Sanzio, 94
+96.Santo Stefano, 91
+97.Torquato Tasso, 91
+98.Sant'Anna, 90
+99.Antonio Canova, 90
+100.Martin Luther King, 90

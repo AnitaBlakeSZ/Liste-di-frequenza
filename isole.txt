@@ -1,0 +1,100 @@
+1.Giuseppe Garibaldi, 447
+2.Vittorio Emanuele, 368
+3.Giuseppe Mazzini, 266
+4.Guglielmo Marconi, 254
+5.Alcide De Gasperi, 241
+6.Aldo Moro, 233
+7.Giacomo Matteotti, 225
+8.Dante Alighieri, 222
+9.Antonio Gramsci, 217
+10.Vittorio Veneto, 207
+11.Cristoforo Colombo, 207
+12.Umberto I, 207
+13.Vincenzo Bellini, 202
+14.Giuseppe Verdi, 193
+15.Giovanni XXIII, 192
+16.Alessandro Manzoni, 190
+17.Francesco Crispi, 189
+18.Don Luigi Sturzo, 171
+19.Luigi Pirandello, 167
+20.Giovanni Verga, 164
+21.Ugo Foscolo, 153
+22.Umberto, 153
+23.Galileo Galilei, 151
+24.Cesare Battisti, 149
+25.Regina Margherita, 145
+26.Grazia Deledda, 143
+27.San Giuseppe, 142
+28.Leonardo da Vinci, 134
+29.Giovanni Pascoli, 130
+30.Archimede, 128
+31.Salvatore Quasimodo, 128
+32.Armando Diaz, 123
+33.Giacomo Leopardi, 123
+34.Alessandro Volta, 121
+35.Gioacchino Rossini, 120
+36.Sandro Pertini, 119
+37.Carlo Alberto Dalla Chiesa, 115
+38.Luigi Capuana, 114
+39.John Fitzgerald Kennedy, 113
+40.San Francesco, 112
+41.Enrico Fermi, 110
+42.Paolo Borsellino, 108
+43.Enrico Berlinguer, 107
+44.Pietro Nenni, 107
+45.Santa Lucia, 105
+46.Giacomo Puccini, 103
+47.Nazario Sauro, 103
+48.Francesco Petrarca, 102
+49.Amerigo Vespucci, 101
+50.Regina Elena, 101
+51.Nino Bixio, 100
+52.Silvio Pellico, 98
+53.Camillo Benso Conte di Cavour, 98
+54.Salvo D'Acquisto, 94
+55.Pio La Torre, 93
+56.Giotto, 92
+57.Rose, 91
+58.Leonardo Sciascia, 91
+59.Pietro Mascagni, 89
+60.Giovanni Falcone, 89
+61.Carmine, 87
+62.Goffredo Mameli, 85
+63.Vittorio Alfieri, 84
+64.Michelangelo Buonarroti, 84
+65.Marco Polo, 83
+66.Dante, 82
+67.Gabriele D'Annunzio, 81
+68.Giovanni Meli, 81
+69.Torquato Tasso, 81
+70.Filippo Turati, 81
+71.Luigi Einaudi, 80
+72.Palmiro Togliatti, 80
+73.Ludovico Ariosto, 79
+74.Carlo Alberto, 79
+75.Nino Martoglio, 79
+76.San Giorgio, 77
+77.Giovanni Paolo II, 76
+78.Mario Rapisardi, 76
+79.Gaetano Donizetti, 75
+80.Croce, 75
+81.San Sebastiano, 75
+82.Sebastiano Satta, 75
+83.Sant'Anna, 74
+84.Rosario Livatino, 71
+85.Benedetto Croce, 68
+86.Enrico Toti, 67
+87.Ugo La Malfa, 66
+88.Guglielmo Oberdan, 66
+89.Pietro Micca, 65
+90.San Domenico, 62
+91.Antonello da Messina, 62
+92.Giovanni Boccaccio, 62
+93.Giuseppe Parini, 61
+94.Vitaliano Brancati, 61
+95.Raffaello Sanzio, 61
+96.Elio Vittorini, 61
+97.San Nicola, 60
+98.Giuseppe Di Vittorio, 60
+99.San Biagio, 60
+100.Emilio Lussu, 59

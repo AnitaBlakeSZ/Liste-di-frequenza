@@ -1,0 +1,100 @@
+1.Guglielmo Marconi, 1333
+2.Giuseppe Garibaldi, 1294
+3.Giuseppe Mazzini, 908
+4.Vittorio Veneto, 903
+5.Giuseppe Verdi, 880
+6.Dante Alighieri, 851
+7.Giacomo Matteotti, 840
+8.Alessandro Manzoni, 794
+9.Cesare Battisti, 701
+10.Aldo Moro, 684
+11.Alessandro Volta, 625
+12.Alcide De Gasperi, 618
+13.Antonio Gramsci, 604
+14.San Rocco, 586
+15.Leonardo da Vinci, 548
+16.Giovanni XXIII, 527
+17.Giovanni Ventitreesimo, 495
+18.Giacomo Leopardi, 482
+19.Vittorio Emanuele, 478
+20.Enrico Fermi, 477
+21.Giovanni Pascoli, 474
+22.Galileo Galilei, 421
+23.Giacomo Puccini, 420
+24.Ugo Foscolo, 387
+25.Cristoforo Colombo, 386
+26.Camillo Benso Conte di Cavour, 383
+27.Silvio Pellico, 383
+28.Gioacchino Rossini, 375
+29.Sandro Pertini, 350
+30.Gaetano Donizetti, 342
+31.Armando Diaz, 333
+32.Francesco Petrarca, 291
+33.Michelangelo Buonarroti, 288
+34.Nazario Sauro, 287
+35.Umberto I, 277
+36.San Francesco, 273
+37.Filippo Turati, 264
+38.Vittorio Alfieri, 251
+39.San Giorgio, 249
+40.San Carlo, 246
+41.Giotto, 244
+42.Salvo D'Acquisto, 244
+43.Don Giovanni Minzoni, 242
+44.Edmondo De Amicis, 240
+45.Giuseppe Di Vittorio, 239
+46.San Giuseppe, 232
+47.Luigi Einaudi, 230
+48.Giuseppe Parini, 230
+49.Vincenzo Bellini, 227
+50.Achille Grandi, 226
+51.Don Luigi Sturzo, 226
+52.San Lorenzo, 221
+53.Goffredo Mameli, 219
+54.Pietro Mascagni, 217
+55.Raffaello Sanzio, 216
+56.Dante, 214
+57.John Fitzgerald Kennedy, 210
+58.Luigi Cadorna, 204
+59.Nino Bixio, 201
+60.Giovanni Falcone, 198
+61.Sant'Anna, 194
+62.Mazzini, 192
+63.Carlo Alberto Dalla Chiesa, 184
+64.Giovanni Paolo II, 182
+65.Fabio Filzi, 178
+66.Enrico Toti, 177
+67.Vittorini, 175
+68.Marco Polo, 175
+69.Paolo Borsellino, 174
+70.Bruno Buozzi, 173
+71.Torquato Tasso, 172
+72.San Bernardo, 171
+73.Amerigo Vespucci, 171
+74.Antonio Vivaldi, 169
+75.Grazia Deledda, 167
+76.Pietro Nenni, 166
+77.Arturo Toscanini, 164
+78.Carlo Alberto, 162
+79.Fiori, 159
+80.San Giacomo, 158
+81.Carlo Porta, 157
+82.San Sebastiano, 156
+83.Luigi Galvani, 156
+84.Eugenio Montale, 155
+85.Palmiro Togliatti, 153
+86.Rose, 152
+87.Antonio Meucci, 152
+88.Francesco Baracca, 150
+89.Guglielmo Oberdan, 147
+90.Cesare Pavese, 145
+91.Luigi Pirandello, 143
+92.Carlo Cattaneo, 140
+93.Carlo Gnocchi, 137
+94.Ludovico Ariosto, 133
+95.Martin Luther King, 132
+96.Pietro Micca, 131
+97.Giovanni Boccaccio, 131
+98.Giovanni Verga, 131
+99.Guido Rossa, 127
+100.Giuseppe Ungaretti, 127
